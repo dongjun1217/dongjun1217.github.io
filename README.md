@@ -3,7 +3,7 @@
 ![Djshin](https://github.com/rundocs/jekyll-rtd-theme/workflows/CI/badge.svg?branch=develop)
 ![jsDelivr](https://data.jsdelivr.com/v1/package/gh/rundocs/jekyll-rtd-theme/badge)
 
-### 안녕하세요! DevOps의 모든 것을 다루는 DevOps Toolkit In Korea, AKA. Dot KIK 입니다.
+### 안녕하세요! DevOps의 모든 것을 다루는 DevOps ToolKit In Korea, AKA. Dot KIK 입니다.
 
 데브옵스는 단순히 개발(Dev)과 운영(Ops)의 합성어를 넘어서, 
 
