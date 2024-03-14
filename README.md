@@ -1,13 +1,18 @@
-# jekyll-rtd-theme
+# Dot Kik
 
-![CI](https://github.com/rundocs/jekyll-rtd-theme/workflows/CI/badge.svg?branch=develop)
+![Djshin](https://github.com/rundocs/jekyll-rtd-theme/workflows/CI/badge.svg?branch=develop)
 ![jsDelivr](https://data.jsdelivr.com/v1/package/gh/rundocs/jekyll-rtd-theme/badge)
 
-Just another documentation theme compatible with GitHub Pages
+안녕하세요! DevOps의 모든 것을 다루는 DevOps Toolkit In Korea, AKA. Dot KIK 입니다.
 
-## What it does?
+이곳은 기술의 최전선에서 일하는 개발자, 운영 팀, 그리고 데브옵스에 열정을 가진 모든 이들을 위한 공간입니다.
 
-This theme is inspired by [sphinx-rtd-theme](https://github.com/readthedocs/sphinx_rtd_theme) and refactored with:
+
+여기서는 초보자부터 전문가까지, 모든 레벨의 독자가 자신의 지식을 넓히고, 데브옵스 여정에서 마주치는 다양한 도전을 극복할 수 있는 통찰력을 얻을 수 있습니다. 우리는 다음과 같은 주제들을 다룰 예정입니다
+
+## 이게 뭔 블로그야?
+
+데브옵스는 단순히 개발(Dev)과 운영(Ops)의 합성어를 넘어서, 지속적인 통합, 배포, 모니터링, 그리고 피드백을 통해 더 빠르고 안정적인 소프트웨어 릴리스를 가능하게 하는 문화와 실천입니다. 이 블로그는 데브옵스의 모든 측면을 탐구하며, 이 분야의 최신 동향, 도구, 최고의 실천법, 그리고 실제 사례 연구를 공유합니다.
 
 - [@primer/css](https://github.com/primer/css)
 - [github-pages](https://github.com/github/pages-gem) ([dependency versions](https://pages.github.com/versions/))
