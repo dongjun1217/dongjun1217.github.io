@@ -1,3 +1,3 @@
-# I'm folder1
+# file1
 
 source: `{{ page.path }}`

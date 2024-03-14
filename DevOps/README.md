@@ -2,10 +2,6 @@
 sort: 1
 ---
 
-# Test Documentation
-
-```
-{% raw %}{% include list.liquid all=true %}{% endraw %}
-```
+# DevOps
 
 {% include list.liquid all=true %}
