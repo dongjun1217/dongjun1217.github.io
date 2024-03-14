@@ -1,3 +1,3 @@
-# 2.지속적 통합(CI)
+# file2
 
 source: `{{ page.path }}`

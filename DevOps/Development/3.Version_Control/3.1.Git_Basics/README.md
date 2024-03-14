@@ -1,3 +1,3 @@
-# 2.지속적 통합(CI)
+# 3.1.Git 사용법
 
 source: `{{ page.path }}`
