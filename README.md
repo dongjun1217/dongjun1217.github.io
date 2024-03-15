@@ -3,6 +3,7 @@
 ![Djshin](https://github.com/rundocs/jekyll-rtd-theme/workflows/CI/badge.svg?branch=develop)
 ![jsDelivr](https://data.jsdelivr.com/v1/package/gh/rundocs/jekyll-rtd-theme/badge)
 
+
 ### 안녕하세요! DevOps의 모든 것을 다루는 DevOps ToolKit In Korea, AKA. Dot KIK 입니다.
 
 데브옵스는 단순히 개발(Dev)과 운영(Ops)의 합성어를 넘어서, 
@@ -37,3 +38,12 @@
 이 블로그는 여러분과 지식을 공유하고, 데브옵스 커뮤니티 내에서 협력과 학습을 촉진하는 것을 목표로 합니다. 
 
 데브옵스가 단순한 기술적 접근법이 아닌, 끊임없이 변화하고 발전하는 여정임을 함께 발견해 나갈 것입니다.
+
+## ABOUT
+### Contact
+Email. <ehdwns9294@naver.com> <br>
+LinkedIn. <https://www.linkedin.com/in/dong-jun-shin-09a337287> <br>
+GitHub. <https://github.com/dongjun1217>
+
+
+
