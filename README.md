@@ -18,7 +18,7 @@
 
 
 
-## 그래서 어떤 걸 할껀데?
+###  그래서 어떤 걸 할껀데?
 
 이곳은 기술의 최전선에서 일하는 개발자, 운영 팀, 그리고 데브옵스에 열정을 가진 모든 이들을 위한 공간입니다.
 
@@ -26,94 +26,14 @@
 
 데브옵스 여정에서 마주치는 다양한 도전을 극복할 수 있는 통찰력을 얻을 수 있습니다. 
 
-우리는 다음과 같은 주제들을 다룰 예정입니다
+### 우리는 다음과 같은 주제들을 다룰 예정입니다
 
-- [@primer/css](https://github.com/primer/css)
-- [github-pages](https://github.com/github/pages-gem) ([dependency versions](https://pages.github.com/versions/))
+- 지속적 통합 및 배포(CI/CD): 효율적인 자동화 전략과 툴체인 구축 방법.
+- 컨테이너화 및 오케스트레이션: Docker, Kubernetes를 활용한 서비스 배포 및 관리.
+- 인프라 코드: Terraform, Ansible 등을 이용한 인프라 관리 자동화.
+- 모니터링 및 로깅: 시스템 성능 모니터링과 로그 관리를 위한 최적의 도구와 전략.
+- 문화 및 베스트 프랙티스: 팀 내에서 데브옵스 문화를 성공적으로 구축하고 유지하는 방법.
 
-## Quick start
+이 블로그는 여러분과 지식을 공유하고, 데브옵스 커뮤니티 내에서 협력과 학습을 촉진하는 것을 목표로 합니다. 
 
-```yml
-remote_theme: rundocs/jekyll-rtd-theme
-```
-
-You can [generate](https://github.com/rundocs/starter-slim/generate) with the same files and folders from [rundocs/starter-slim](https://github.com/rundocs/starter-slim/)
-
-## Usage
-
-Documentation that can guide how to create with Github pages, please refer to [rundocs.io](https://rundocs.io) for details
-
-## Features
-
-- Shortcodes (Toasts card, mermaid)
-- Pages Plugins (emoji, gist, avatar, mentions)
-- Auto generate sidebar
-- [Attribute List Definitions](https://kramdown.gettalong.org/syntax.html#attribute-list-definitions) (Primer/css utilities, Font Awesome 4)
-- Service worker (caches)
-- SEO (404, robots.txt, sitemap.xml)
-- Canonical Link (Open Graph, Twitter Card, Schema data)
-
-## Options
-
-| name          | default value        | description       |
-| ------------- | -------------------- | ----------------- |
-| `title`       | repo name            |                   |
-| `description` | repo description     |                   |
-| `url`         | user domain or cname |                   |
-| `baseurl`     | repo name            |                   |
-| `lang`        | `en`                 |                   |
-| `direction`   | `auto`               | `ltr` or `rtl`    |
-| `highlighter` | `rouge`              | Cannot be changed |
-
-```yml
-# folders sort
-readme_index:
-  with_frontmatter: true
-
-meta:
-  key1: value1
-  key2: value2
-  .
-  .
-  .
-
-google:
-  gtag:
-  adsense:
-
-mathjax: # this will prased to json, default: {}
-
-mermaid:
-  custom:     # mermaid link
-  initialize: # this will prased to json, default: {}
-
-scss:   # also _includes/extra/styles.scss
-script: # also _includes/extra/script.js
-
-translate:
-  # shortcodes
-  danger:
-  note:
-  tip:
-  warning:
-  # 404
-  not_found:
-  # copyright
-  revision:
-  # search
-  searching:
-  search:
-  search_docs:
-  search_results:
-  search_results_found: # the "#" in this translate will replaced with results size!
-  search_results_not_found:
-
-plugins:
-  - jemoji
-  - jekyll-avatar
-  - jekyll-mentions
-```
-
-## The license
-
-The theme is available as open source under the terms of the MIT License
+데브옵스가 단순한 기술적 접근법이 아닌, 끊임없이 변화하고 발전하는 여정임을 함께 발견해 나갈 것입니다.
