@@ -60,23 +60,26 @@
     ```bash
     cd 경로/디렉토리
     ```
-   `경로/디렉토리`를 `HelloWorld.java` 파일이 있는 실제 경로로 바꿉니다.
+   - `경로/디렉토리`를 `HelloWorld.java` 파일이 있는 실제 경로로 바꿉니다.
 
 3. **Java 프로그램 컴파일**:
     ```bash
     javac HelloWorld.java
     ```
-   `javac` 명령어는 `.java` 파일을 `.class` 파일(바이트코드)로 컴파일합니다.
+   - `javac` 명령어는 `.java` 파일을 `.class` 파일(바이트코드)로 컴파일합니다.
 
 4. **Java 프로그램 실행**:
     ```bash
     java HelloWorld
     ```
-   컴파일된 `.class` 파일을 실행합니다. 화면에 `Hello, World!`가 출력되면 성공적으로 프로그램이 실행된 것입니다.
+   - 컴파일된 `.class` 파일을 실행합니다. 화면에 `Hello, World!`가 출력되면 성공적으로 프로그램이 실행된 것입니다.
+
+
 
 ## 기초 개념
 
 ### 변수와 데이터 타입
+
 ```
 자바에서 데이터를 저장하고 조작하기 위해 여러 가지 데이터 타입을 사용합니다. 
 
@@ -107,12 +110,13 @@
 
 변수를 선언하는 방법은 타입을 명시한 다음 변수 이름을 적고, 필요한 경우 값을 초기화합니다. 예를 들어:
 
-```java
+```
 int age = 30;
 boolean isStudent = false;
 char grade = 'A';
 double averageScore = 82.5;
 ```
+
 위 예제에서 `int`, `boolean`, `char`, `double`은 데이터 타입이며, 
 
 `age`, `isStudent`, `grade`, `averageScore`는 변수 이름입니다. 
@@ -125,7 +129,7 @@ double averageScore = 82.5;
 #### if 문
 if 문은 주어진 조건이 참`true`일 경우, 특정 코드 블록을 실행합니다. 조건이 거짓`false`일 경우, 해당 코드 블록은 건너뛰어집니다. 추가적으로 `else`와 `else if`를 사용하여 여러 조건을 체크할 수 있습니다.
 
-```scss
+```java
 if (조건) {
     // 조건이 참일 때 실행할 코드
 } else if (다른 조건) {
@@ -134,6 +138,7 @@ if (조건) {
     // 어떤 조건도 참이 아닐 때 실행할 코드
 }
 ```
+
 #### switch 문
 switch 문은 하나의 변수의 값에 따라 여러 경우의 실행 경로를 정의할 수 있습니다.<br>`case` 키워드를 사용하여 각각의 경우를 정의하고,<br>해당 변수의 값과 일치하는 `case`의 코드 블록을 실행합니다.
 
